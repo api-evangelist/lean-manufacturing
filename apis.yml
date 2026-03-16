@@ -1,12 +1,22 @@
+aid: lean-manufacturing
 name: Lean Manufacturing
-description: Lean Manufacturing is a manufacturing or industrial technology used to
-  design, produce, or manage physical products and production processes. It leverages
-  automation, precision engineering, and digital controls to improve quality, efficiency,
-  and throughput.
-url: null
+description: >-
+  Lean Manufacturing is a manufacturing philosophy that focuses on minimizing
+  waste within manufacturing systems while simultaneously maximizing
+  productivity. It leverages automation, precision engineering, and digital
+  controls to improve quality, efficiency, and throughput.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Lean Manufacturing
-created: '2025'
-modified: '2025'
+  - Lean Manufacturing
+  - Manufacturing
+  - Process Improvement
+  - Waste Reduction
+url: https://raw.githubusercontent.com/api-evangelist/lean-manufacturing/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
